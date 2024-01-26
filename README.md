@@ -8,8 +8,8 @@
   <strong> Gallery </strong>
 </p>
 <p align="center">
-  <img src="Screenshots/Gallery1.png" width="50%" alt="Gallery1.png">
-  <img src="Screenshots/Gallery2.png" width="50%" alt="Gallery2.png">
+  <img src="Screenshots/Profile1.png" width="50%" alt="Gallery1.png">
+  <img src="Screenshots/Profile2.png" width="50%" alt="Gallery2.png">
 </p>
 
 
@@ -18,36 +18,9 @@
   <strong>Gallery With Simple Modal</strong>
 </p>
 <p align="center">
-  <img src="Screenshots/Gallery3.png" width="50%" alt="Gallery3">
+  <img src="Screenshots/Profile3.png" width="50%" alt="Gallery3">
 </p>
 
-
-### گالری با مدال ساده و صفحه بندی
-<p align="center">
-  <strong>Gallery With Simple Modal & Pagination</strong>
-</p>
-<p align="center">
-  <img src="Screenshots/Gallery4.png" width="50%" alt="Gallery4">
-</p>
-
-
-### گالری با Lightbox2
-<p align="center">
-  <strong>Gallery With Lightbox</strong>
-</p>
-<p align="center">
-  <img src="Screenshots/Gallery5.png" width="50%" alt="Gallery5">
-</p>
-
-
-### گالری با Lightbox2 و صفحه بندی
-
-<p align="center">
-  <strong>Gallery With Lightbox & Pagination</strong>
-</p>
-<p align="center">
-  <img src="Screenshots/Gallery6.png" width="50%" alt="Gallery6">
-</p>
 
 ### کارهای آینده
 <ul style="list-style-type: none;" dir="rtl">
