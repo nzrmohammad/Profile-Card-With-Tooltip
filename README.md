@@ -11,8 +11,6 @@
   <img src="Screenshots/Profile2.png" width="50%" alt="Gallery2.png">
 </p>
 
-
-### گالری با مدال ساده
 <p align="center">
   <strong> Profile Card With Tooltip in Mobile </strong>
 </p>
